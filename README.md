@@ -37,13 +37,10 @@ to train your own model
 cd ./src/
 python main.py
 ```
-<<<<<<< HEAD
-
-### contact
-Kaili Wang: kailiwang@csu.edu.cn
-=======
 to see the result
 ```bash
 tensorboard ../runs/DeepDTAF_<datetime>_<seed>/
 ```
->>>>>>> 936a8508... the initial edition
+
+### contact
+Kaili Wang: kailiwang@csu.edu.cn
