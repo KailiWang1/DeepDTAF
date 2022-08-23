@@ -29,7 +29,7 @@ git clone https://github.com/NVIDIA/apex
 cd apex
 python setup.py install
 ```
-Since the codes for apex package in the above website have been updated, you can also install it using the uploaded package.  
+Since the codes for apex package in the above website have been updated, you can also install it using the uploaded package. The apex.tar can be found in `./src/`.  
 
 
 ### Training & Evaluation
