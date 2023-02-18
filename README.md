@@ -2,7 +2,7 @@
 
 DeepDTAF is a deep learning architecture, which integrates local and global features to predict the binding affinity between ligands and proteins.  
 
-The benchmark dataset can be found in `./data/`. The DeepDTAF model is available in `./src/`. And the result will be generated in `./runs/`. See our paper for more details.
+The benchmark dataset can be found in `./data/`. Data preprocessing can be referred to `./prepare/`. The DeepDTAF model is available in `./src/`. And the result will be generated in `./runs/`. See our paper for more details.
 
 ### Requirements:
 - python 3.7
