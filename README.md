@@ -45,7 +45,7 @@ tensorboard ../runs/DeepDTAF_<datetime>_<seed>/
 ```
 
 ### Citation
-Wang, K., Zhou, R., Li, Y. and Li, M. (2021) DeepDTAF: a deep learning method to predict protein-ligand binding affinity. Briefings in Bioinformatics, 22, 1-15.
+Wang K, Zhou R, Li Y, et al. DeepDTAF: a deep learning method to predict protein–ligand binding affinity. Briefings in Bioinformatics, 2021, 22(5), bbab072.
 
 ### contact
 Kaili Wang: kailiwang@csu.edu.cn
